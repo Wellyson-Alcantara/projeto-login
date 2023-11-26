@@ -32,6 +32,10 @@ Grandes telas: acima de 1500px
         float: right;
         width: 70%;
     }
+
+    div#formulario, a {
+        padding-left: 20px;
+    }
 }
 
 /* Desktop */
@@ -62,5 +66,9 @@ Grandes telas: acima de 1500px
 
     div#formulario > p {
         font-size: 1.2em;
+    }
+
+    div#formulario, a {
+        padding-left: 20px;
     }
 }
