@@ -19,13 +19,6 @@ body, html {
     width: 100vw;
 }
 
-body#paisagem {
-    background: url(../imagens/pexels-andrei-tanase-3570038.jpg) no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    position: absolute;
-}
-
 main {
     position: relative;
     height: 100vh;
