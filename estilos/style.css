@@ -79,18 +79,18 @@ div.campo label {
 
 div.campo > i {
     color: white;
-    background-color: black;
+    /* background-color: black; */
     font-size: 2em;
-    width: 42px;
+    width: 40px;
     padding: 4px;
 }
 
 div.campo > input {
     background-color: #94cfcd;
     font-size: 1em;
-    width: calc(100% - 47px);
+    width: calc(100% - 45px);
     height: 100%;
-    transform: translateY(-9px);
+    transform: translateY(-10px);
     border: 0px;
     border-radius: 8px;
     padding: 4px;
